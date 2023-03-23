@@ -1,0 +1,21 @@
+{
+    "name": "zhaiwenjun/icbc-jft",
+    "description": "工行聚富通SDK",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhaiwenjun\\IcbcJft\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "翟文君",
+            "email": "zwj@stourweb.cn"
+        }
+    ],
+    "require": {
+	"php": ">=7.2"
+    
+    }
+}
